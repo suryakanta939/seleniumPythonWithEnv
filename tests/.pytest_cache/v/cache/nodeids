@@ -1,0 +1,5 @@
+[
+  "test_from_pytest_check.py::TestLogin::test_radio_checkBox",
+  "test_from_pytest_check.py::TestLogin::test_select_box",
+  "test_from_pytest_check.py::TestLogin::test_validation"
+]
